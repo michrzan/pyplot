@@ -1,3 +1,1 @@
-<a href="Applied Plotting, Charting &amp; Data Representation in Python">
-https://www.coursera.org/learn/python-plotting/home/welcome
-</a>
+<a href="https://www.coursera.org/learn/python-plotting/home/welcome">Applied Plotting, Charting &amp; Data Representation in Python/a>
